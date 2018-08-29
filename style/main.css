@@ -1,0 +1,108 @@
+
+body{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	width: 800px;
+	margin: 0 auto; 
+	padding: 0;
+}
+header{
+	padding:15px;
+	background-color:#3F4C58;
+}
+header img{
+	float: left; 
+	padding-right: 15px; 
+	width: 150px;
+}
+header h2 {
+	font-size: 230%;
+	color: white;
+}
+header p{
+	color: #e6e6ff;
+}
+h1, h2, h3, p {
+	margin: 0;
+	padding: 0;
+}
+td p{
+	font-size: 8pt;
+}
+#shipping table td{
+	padding: 10px;
+}
+th{
+	height: 40px;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button {  
+   opacity: 1;
+}
+input[type=number]{
+	width: 80px;
+}
+.foodlist{
+	width: 350px;
+	float:left;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.foodlist img{
+	width: 180px;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+button {
+    background-color: #555555;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+	width: 80px;
+}
+#add{
+	width: 400px;
+}
+#mail{
+	width: 200px;
+}
+#ct{
+	width: 200px;
+}
+#err{
+	color: #f97c4a;
+}
+
+#foodDiv{
+	padding-top: 10px;
+	height: 380px;
+}
+#shipping{
+	background-color: #f7f4f4;
+	padding-bottom: 20px;
+}
+#shipping table{
+	padding-top:20px;
+	margin: 0 auto; 
+}
+#errBack{
+	margin-top:100px;
+	margin: 0 auto; 
+	color: red;
+}
+#btn{
+	width: 100%;
+	margin: 0 auto;
+}
+#disReceipt{
+	margin-top:100px;
+}
+#splitTr{
+	height: 80px;
+}
