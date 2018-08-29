@@ -1,6 +1,6 @@
 <?php
 /*
-Name: Gyeonglim, Isabela
+Name: Gyeonglim
 Date: April 8, 2018
 Purpose: Assignment4
 */
